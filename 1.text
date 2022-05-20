@@ -1,0 +1,5 @@
+yarn run v1.22.18
+$ yarn run high-memory -r tsconfig-paths/register src/starter/test.ts
+$ node --max_old_space_size=65536 ./node_modules/.bin/ts-node -r tsconfig-paths/register src/starter/test.ts
+1
+Done in 5.22s.
